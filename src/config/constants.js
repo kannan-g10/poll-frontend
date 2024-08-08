@@ -1,1 +1,1 @@
-export const API_URL = "https://poll-backend-2.onrender.com/api/v1";
+export const API_URL = "https://poll-backend-uvko.onrender.com/api/v1";
